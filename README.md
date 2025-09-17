@@ -1,9 +1,10 @@
 <h1 align="center">Hi 👋, I'm Arjun kumar</h1>
-<h3 align="center">I am currenting studies ,Engineering at PTU</h3>
+<h3 align="center">I am currently studies ,Engineering at PTU</h3>
+
+<img align="right" alt="Coding" width="350" src="https://mir-s3-cdn-cf.behance.net/project_modules/source/06f21a161921919.63cd7887d0a70.gif"/>
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=arjunkuamr&label=Profile%20views&color=0e75b6&style=flat" alt="arjunkuamr" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=arjunkuamr" alt="arjunkuamr" /></a> </p>
 
 - 📫 How to reach me **arjun470451@gmail.com**
 
@@ -23,3 +24,5 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=arjunkuamr&show_icons=true&locale=en&layout=compact" alt="arjunkuamr" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=arjunkuamr&show_icons=true&locale=en" alt="arjunkuamr" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=arjunkuamr&" alt="arjunkuamr" /></p>
